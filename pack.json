@@ -1,0 +1,10 @@
+{
+  "name": "Mass Effect Ambience",
+  "description": "Uploaded by "Gaming Ambience" @ YouTube.com",
+  "author": "ThisByzantineConduit",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
